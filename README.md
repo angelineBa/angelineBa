@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angeline Ba</h1>
 <h3 align="center">A passionate frontend developer from Davao City</h3>
 
-- 🔭 I’m currently working on [my capstone project](petconnect.pw)
+- 🔭 I’m currently working on [my capstone project](https://github.com/angelineBa/CapstonePetconnect)
 
 - 🌱 I’m currently learning **javascript, reactjs etc.**
 
